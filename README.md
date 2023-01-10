@@ -30,7 +30,7 @@
 <br>
 
 
-<h3>🌊 Technology Stack </h3> 
+<h3>🎶 Technology Stack </h3> 
 <!-- 🚀 -->
 <br>
 

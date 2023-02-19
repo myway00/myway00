@@ -21,10 +21,10 @@
   • 2021.04 ~ 2021.11 / 서강대학교 멋쟁이사자처럼 웹 개발 동아리 (9기)
 ```
  
-<h3>🎶 Information </h3>
+<!--<h3>🎶 Information </h3>
 <br>
 
-<!-- <a href="노션주소"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+ <a href="노션주소"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@주소" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <br>
 <br> -->

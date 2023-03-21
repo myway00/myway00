@@ -4,13 +4,13 @@
 
 <div>
 
-<h2>🎶 Dongyun Kim
+<h2>🌼 Dongyun Kim
 <br>
 <br>
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmyway00&count_bg=%2396519E&title_bg=%23555555&icon=skyliner.svg&icon_color=%23E7E7E7&title=dong-yunny&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmyway00&count_bg=%23FFEE4C&title_bg=%23555555&icon=skyliner.svg&icon_color=%23E7E7E7&title=dong-yunny&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3>🎶 Activities </h3>
+<h3>🌼 Activities </h3>
  <br>
 
 ```
@@ -21,7 +21,7 @@
   • 2021.04 ~ 2021.11 / 서강대학교 멋쟁이사자처럼 웹 개발 동아리 (9기)
 ```
  
-<!--<h3>🎶 Information </h3>
+<!--<h3>🌼 Information </h3>
 <br>
 
  <a href="노션주소"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -30,7 +30,7 @@
 <br> -->
 
 
-<h3>🎶 Technology Stack </h3> 
+<h3>🌼 Technology Stack </h3> 
 <!--  🚀 -->
 <br>
 

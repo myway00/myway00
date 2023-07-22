@@ -4,13 +4,13 @@
 
 <div>
 
-<h2>🌼 Dongyun Kim
+<h2>🚀 Dongyun Kim
 <br>
 <br>
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmyway00&count_bg=%23FFEE4C&title_bg=%23555555&icon=skyliner.svg&icon_color=%23E7E7E7&title=dong-yunny&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmyway00&count_bg=%23E8F5F9&title_bg=%237095E7&icon=&icon_color=%23FFFFFF&title=dong-yunny&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3>🌼 Activities </h3>
+<h3>🚀 Activities </h3>
  <br>
 
 ```
@@ -31,7 +31,7 @@
 <br> -->
 
 
-<h3>🌼 Technology Stack </h3> 
+<h3>🚀 Technology Stack </h3> 
 <!--  🚀 -->
 <br>
 

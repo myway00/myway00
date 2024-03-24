@@ -1,4 +1,4 @@
-<!-- 
+
 
 <!-- ![Github Graph](https://activity-graph.herokuapp.com/graph?username=myway00&area=false&theme=react-dark&hide_border=true&custom_title=👩‍🚀🌊DONGYUN🌊👩‍🚀) -->
 
@@ -12,7 +12,7 @@
 
 <h3>🚀 Activities </h3>
  <br>
-<!-- 
+ 
 ```
   • 2024.01 ~ ing     / SK C&C Solution SW
   • 2023.08 ~ 2023.12 / POSCO DX 교육 & 실무 프로젝트 서버 개발 
@@ -23,7 +23,7 @@
   • 2021.04 ~ 2021.11 / 서강대학교 멋쟁이사자처럼 웹 개발 동아리 (9기)  
   • 2019.03 ~ 2023.08 / 서강대학교 영미어문 & 컴퓨터공학
 ```
--->
+
  
 <!--<h3>🌼 Information </h3>
 <br>
@@ -52,4 +52,4 @@
  
  
 </div>
--->
+

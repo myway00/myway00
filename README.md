@@ -6,22 +6,23 @@
 
 <h2>🚀 Dongyun Kim
 <br>
-<br>
+<!-- <br> -->
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmyway00&count_bg=%23E8F5F9&title_bg=%237095E7&icon=&icon_color=%23FFFFFF&title=dong-yunny&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmyway00&count_bg=%23E8F5F9&title_bg=%237095E7&icon=&icon_color=%23FFFFFF&title=dong-yunny&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <h3>🚀 Activities </h3>
  <br>
  
 ```
-  • 2024.01 ~ ing     / SK C&C Solution SW
-  • 2023.08 ~ 2023.12 / POSCO DX 교육 & 실무 프로젝트 서버 개발 
-  • 2022.07 ~ 2022.10 / FOSSLight Hub 오픈소스 컨트리뷰터 
-  • 2022.03 ~ 2024.01 / 외주 작업 팀 (Onessol) 서버 개발 프리랜서  
-  • 2022.02 ~ 2022.05 / Project-lion Springboot Back-end 과정 PGL
-  • 2021.12 ~ 2022.11 / 서강대학교 멋쟁이사자처럼 운영진(교육 담당) (10기)  
-  • 2021.04 ~ 2021.11 / 서강대학교 멋쟁이사자처럼 웹 개발 동아리 (9기)  
-  • 2019.03 ~ 2023.08 / 서강대학교 영미어문 & 컴퓨터공학
+  • 2024.01 ~ ing     / [SK C&C] Solution Software Engineer 
+  • 2023.08 ~ 2023.12 / [POSCO DX] Education & Practical Application 서버 개발 
+  • 2022.07 ~ 2022.10 / [FOSSLight Hub] Opensource Contributor
+  • 2022.03 ~ 2024.01 / [Onessol Team] Server-side Developer (Freelancer)
+  • 2022.02 ~ 2022.05 / [Project-lion] Springboot Server-side Course 
+  • 2021.12 ~ 2022.11 / [Sogang Univ SW Club] Education Management (10th)  
+  • 2021.04 ~ 2021.11 / [Sogang Univ SW Club] 9th Member 
+  • 2019.03 ~ 2023.08 / [Sogang Univ] M.S. in Computer Science & English Literature
 ```
 
  
@@ -49,6 +50,9 @@
 <!--<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /> 
 <!-- <img src="https://img.shields.io/badge/Docker-006eff?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=k8s&amp;logoColor=white"> -->
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></a>
+<img src="https:///img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/></a>
  
  
 </div>

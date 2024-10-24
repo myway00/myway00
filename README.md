@@ -18,7 +18,7 @@
   • 2024.01 ~ ing     / [SK C&C] Solution Software Engineer 
   • 2023.08 ~ 2023.12 / [POSCO DX] Education & Practical Application 서버 개발 
   • 2022.07 ~ 2022.10 / [FOSSLight Hub] Opensource Contributor
-  • 2022.03 ~ 2024.01 / [Onessol Team] Server-side Developer (Freelancer)
+  • 2022.03 ~ 2024.01 / [Freelancer] Server-side Developer for PLM (PCB Domain & Automobile Parts Domain)
   • 2022.02 ~ 2022.05 / [Project-lion] Springboot Server-side Course 
   • 2021.12 ~ 2022.11 / [Sogang Univ SW Club] Education Management (10th)  
   • 2021.04 ~ 2021.11 / [Sogang Univ SW Club] 9th Member 

@@ -15,7 +15,7 @@
  <br>
  
 ```
-  • 2024.01 ~ ing     / [SK C&C] Solution Software Engineer 
+  • 2024.01 ~ ing     / [SK AX] Solution Software Engineer 
   • 2023.08 ~ 2023.12 / [POSCO DX] Education & Practical Application Server Developer
   • 2022.07 ~ 2022.10 / [FOSSLight Hub] Opensource Contributor
   • 2022.03 ~ 2024.01 / [Freelancer] Server-side Developer for PLM (PCB Domain & Automobile Parts Domain)
